@@ -2,3 +2,16 @@
   font-family: sans-serif;
   text-align: center;
 }
+h1 {
+    font-weight: 300;
+    color: #444452;
+    line-height: 1.5;
+    font-family: Apercu,"Source Sans Pro",system,system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;
+  }
+h3{
+    color: #444452;
+    line-height: 1.5;
+    font-size: 1.25rem;
+    font-weight: 400;
+    font-family: Apercu,"Source Sans Pro",system,system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;
+  }
